@@ -1,0 +1,16 @@
+{
+  "name": "privacy-training-tracker",
+  "version": "1.0.0",
+  "description": "Privacy Training Record Tracker with FHE Technology",
+  "main": "index.html",
+  "scripts": {
+    "dev": "serve .",
+    "build": "echo 'No build needed for static app'",
+    "start": "serve ."
+  },
+  "keywords": ["privacy", "training", "fhe", "blockchain", "zama"],
+  "author": "Privacy Training System",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
